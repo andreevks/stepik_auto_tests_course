@@ -1,0 +1,42 @@
+1654681394784	geckodriver	INFO	Listening on 127.0.0.1:57301
+1654681397878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofile8kq9bJ"
+1654681398081	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57302
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofile8kq9bJ\\search.json.mozlz4", (void 0)))
+1654681399196	Marionette	INFO	Listening on port 57322
+Read port: 57322
+1654681399214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:57302/devtools/browser/e4c72fde-7abe-4d1b-ae3c-882f60ccb925
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1654513240, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1654513240, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1654681407074	Marionette	INFO	Stopped listening on port 57322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1654684320820	geckodriver	INFO	Listening on 127.0.0.1:58922
+1654684323888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofileJPvkOS"
+1654684324113	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58923
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofileJPvkOS\\search.json.mozlz4", (void 0)))
+1654684325309	Marionette	INFO	Listening on port 58943
+Read port: 58943
+DevTools listening on ws://localhost:58923/devtools/browser/46e324eb-f195-4f88-87e4-d04c5fc3471f
+1654684325338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=9b5707843068c609c0625b843b46a77337d3&rid=G26GqHXz7ZYYbInzWCSxwUzDits&reg=78&referer=http%3A%2F%2Fselenium1py.pythonanywhere.com%2Fru%2F, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1654684328175	Marionette	INFO	Stopped listening on port 58943
+1654688778917	geckodriver	INFO	Listening on 127.0.0.1:62028
+1654688781945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofileVCs8Wm"
+1654688782158	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:62029
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\C523~1\\AppData\\Local\\Temp\\rust_mozprofileVCs8Wm\\search.json.mozlz4", (void 0)))
+1654688783342	Marionette	INFO	Listening on port 62053
+DevTools listening on ws://localhost:62029/devtools/browser/6a003b92-5ee3-4c80-9431-1c56fd6e56bb
+Read port: 62053
+1654688783374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1654513240, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654688794396	Marionette	INFO	Stopped listening on port 62053
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
